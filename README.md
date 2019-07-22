@@ -1,5 +1,5 @@
 ### r-libinsight-visnetwork
-A script that visualizes a libinsight export
+A script that creates a nodes and edges list from a libinsight export, and creates a network visualization using visNetwork. 
 
 
 ### load tidy
