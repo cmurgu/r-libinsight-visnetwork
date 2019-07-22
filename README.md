@@ -4,10 +4,11 @@ A script that visualizes a libinsight export
 
 # load tidy
 
+```{r}
 library(tidyverse)
+```
 
-# load data
-# see example for a sense of how we structured our libinsight data. 
+# load data - see example for a sense of how we structured our libinsight data. 
 
 data <- read_csv("refined-data.csv")
 
